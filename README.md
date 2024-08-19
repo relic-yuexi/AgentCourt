@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 ## Download Data
 
-The data will be uploaded to Hugging Face soon. Please check back for updates.
+https://huggingface.co/datasets/youzi517/AgentCourt/tree/main
 
 ## Training
 
