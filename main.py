@@ -302,7 +302,7 @@ class CourtSimulation:
             self.reflect_and_summary()
             console.print(f"案例 {index + 1} 庭审结束", style="bold")
             self.save_court_log(
-                f"/data/chenguhong/CourtAgent/CourtSimulationAgent/test_result/ours/1/court_session_test_case_{index + 1}.json"
+                f"/test_result/ours/1/court_session_test_case_{index + 1}.json"
             )
 
     def save_court_log(self, file_path):
