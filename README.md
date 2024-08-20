@@ -1,5 +1,6 @@
 # AgentCourt: Simulating Court with Adversarial Evolvable Lawyer Agents
-![动图展示](动图展示.gif)
+
+![动图展示](court.gif)
 [论文链接: AgentCourt: Simulating Court with Adversarial Evolvable Lawyer Agents](https://arxiv.org/abs/2408.08089)
 ## Table of Contents
 
