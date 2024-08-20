@@ -26,13 +26,14 @@ To watch a voice-over video demonstration of the system, visit the following lin
 3. [Research Highlights](#research-highlights)
 4. [Installation](#installation)
 5. [Download Data](#download-data)
-6. [Training](#training)
-7. [Test](#test)
-8. [Evaluation](#evaluation)
-9. [Code Availability](#code-availability)
-10. [Contributing](#contributing)
-11. [Citation](#citation)
-12. [Contact](#contact)
+6. [Court Process](#court-process)
+7. [Training](#training)
+8. [Test](#test)
+9. [Evaluation](#evaluation)
+10. [Code Availability](#code-availability)
+11. [Contributing](#contributing)
+12. [Citation](#citation)
+13. [Contact](#contact)
 
 ## Overview
 
@@ -66,6 +67,12 @@ pip install -r requirements.txt
 
 The dataset used in this project is available on Hugging Face:
 [AgentCourt Dataset](https://huggingface.co/datasets/youzi517/AgentCourt)
+
+## Court Process
+
+![Court Process](court_process.png)
+
+The above image illustrates the detailed court process simulated in AgentCourt, showcasing the interactions and roles of various agents within the courtroom.
 
 ## Training
 
