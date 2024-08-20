@@ -3,13 +3,15 @@
   AgentCourt: Simulating Court with Adversarial Evolvable Lawyer Agents
 </h1>
 
-![Demonstration GIF](AgentCourt.gif)
+1. **Demonstration GIF**: A simulation of the court proceedings with adversarial evolvable lawyer agents.
+   ![Demonstration GIF](AgentCourt.gif)
 
-[Paper Link: AgentCourt: Simulating Court with Adversarial Evolvable Lawyer Agents](https://arxiv.org/abs/2408.08089)
+2. **Paper**: For a detailed understanding of the technical aspects and experimental results, please refer to our paper.
+   - [AgentCourt: Simulating Court with Adversarial Evolvable Lawyer Agents](https://arxiv.org/abs/2408.08089)
 
-You can watch the voice-over video demonstration on Bilibili, at the following address:
-
-[https://www.bilibili.com/video/BV1aXpUe3E6A?t=2323.7](https://www.bilibili.com/video/BV1aXpUe3E6A?t=2323.7)
+3. **Video Demonstration**: You can watch the voice-over video demonstration on Bilibili at the following address:
+   - [Bilibili Video Demonstration](https://www.bilibili.com/video/BV1aXpUe3E6A?t=2323.7)
+   
 ## Table of Contents
 
 1. [Overview](#overview)
