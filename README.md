@@ -1,6 +1,6 @@
 <span style="display:flex; align-items:center;">
   <img src="io.png" alt="io.png" style="width:100px; margin-right:10px;">
-  <span style="font-size:30px;">AgentCourt: Simulating Court with Adversarial Evolvable Lawyer Agents</span>
+  <span style="font-size:36px;">AgentCourt: Simulating Court with Adversarial Evolvable Lawyer Agents</span>
 </span>
 
 ![Demonstration GIF](AgentCourt.gif)
