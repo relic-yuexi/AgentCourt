@@ -3,8 +3,6 @@
   AgentCourt: Simulating Court with Adversarial Evolvable Lawyer Agents
 </h1>
 
-# AgentCourt: Simulating Court with Adversarial Evolvable Lawyer Agents
-
 ## Demonstration GIF
 This animated image provides a visual representation of the simulated courtroom environment.
 ![Simulated Courtroom Dynamics](AgentCourt.gif)
