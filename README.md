@@ -72,7 +72,7 @@ The dataset used in this project is available on Hugging Face:
 
 ![Court Process](court_process.png)
 
-The above image illustrates the detailed court process simulated in AgentCourt, showcasing the interactions and roles of various agents within the courtroom.
+The above image illustrates the detailed court process simulated in AgentCourt.
 
 ## Training
 
