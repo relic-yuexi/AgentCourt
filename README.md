@@ -1,4 +1,4 @@
-![Logo](io.png) AgentCourt: Simulating Court with Adversarial Evolvable Lawyer Agents
+<img src="io.png" alt="Logo" style="width: 50px; height: auto;"> **AgentCourt: Simulating Court with Adversarial Evolvable Lawyer Agents**
 
 ![Demonstration GIF](AgentCourt.gif)
 
