@@ -1,7 +1,4 @@
-<div style="display: flex; align-items: center;">
-  <img src="io.png" alt="Icon" style="width: 1em; height: 1em; margin-right: 0.5em;" />
-  <h1 style="margin: 0;">AgentCourt: Simulating Court with Adversarial Evolvable Lawyer Agents</h1>
-</div>
+![io.png](io.png) & AgentCourt: Simulating Court with Adversarial Evolvable Lawyer Agents
 
 ![Demonstration GIF](AgentCourt.gif)
 
