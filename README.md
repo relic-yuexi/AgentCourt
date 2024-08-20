@@ -4,7 +4,7 @@
 </h1>
 
 ## Demonstration GIF
-This animated image provides a visual representation of the simulated courtroom environment.
+
 ![Simulated Courtroom Dynamics](AgentCourt.gif)
 
 The above GIF demonstrates the adversarial evolution of lawyer agents in a simulated court setting.
