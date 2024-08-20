@@ -1,9 +1,4 @@
-<div style="text-align: center;">
-  <img src="io.png" alt="AgentCourt Logo" style="width: auto; height: 1.5em; margin-right: 8px; display: inline-block;">
-  <span style="display: inline-block;">
-    # AgentCourt: Simulating Court with Adversarial Evolvable Lawyer Agents
-  </span>
-</div>
+<h1 style="display: inline;" id="agentcourt">AgentCourt: Simulating Court with Adversarial Evolvable Lawyer Agents <img src="io.png" alt="AgentCourt Logo" style="height: 1em; width: auto; margin-left: 0.5em; vertical-align: middle; display: inline;" /></h1>
 
 ![Demonstration GIF](AgentCourt.gif)
 
