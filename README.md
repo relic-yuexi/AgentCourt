@@ -70,7 +70,7 @@ The dataset used in this project is available on Hugging Face:
 
 ## Court Process
 
-![Court Process](court_process.png)
+
 
 The above image illustrates the detailed court process simulated in AgentCourt.
 
