@@ -1,4 +1,7 @@
-[![io.png](io.png)](link-to-your-paper) &mdash; AgentCourt: Simulating Court with Adversarial Evolvable Lawyer Agents
+<span style="display:flex; align-items:center;">
+  <img src="io.png" alt="io.png" style="width:100px; margin-right:10px;">
+  AgentCourt: Simulating Court with Adversarial Evolvable Lawyer Agents
+</span>
 
 ![Demonstration GIF](AgentCourt.gif)
 
