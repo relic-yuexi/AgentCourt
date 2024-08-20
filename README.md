@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <img src="io.png" alt="Icon" style="width: auto; height: 1em; margin-right: 0.5em;" />
+  <img src="io.png" alt="Icon" style="width: 1em; height: 1em; margin-right: 0.5em;" />
   <h1 style="margin: 0; font-size: 1.5em;">AgentCourt: Simulating Court with Adversarial Evolvable Lawyer Agents</h1>
 </div>
 
