@@ -137,8 +137,8 @@ If you use AgentCourt in your research, please cite our paper:
 
 ## Contact
 
-For questions and feedback, please open an issue on this GitHub repository.
+We are thrilled that you are interested in the AgentCourt project. If you find value in our work, please consider giving us a ⭐️ (Star) to show your support. Your encouragement is vital to our continuous improvement and expansion of this project.
 
----
+Should you have any questions, suggestions, or wish to contribute code, feel free to reach out through the GitHub Issue system. We look forward to collaborating with you to push the boundaries of LLM-driven agent technology in legal scenarios.
 
-This project is part of ongoing research in LLM-driven agent technology for legal scenarios. We're excited to see how it can advance the field of AI in law.
+Thank you for your attention and support!
