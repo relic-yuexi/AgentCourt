@@ -134,6 +134,17 @@ If you use AgentCourt in your research, please cite our paper:
       url={https://arxiv.org/abs/2408.08089}, 
 }
 ```
+## Acknowledgments
+
+We would like to extend our gratitude to the team at Deli Legal for their innovative contributions to the field of AI-driven legal technology. Their intelligent legal system, available at [Deli Legal AI](https://www.delilegal.com/ai), has been a valuable reference and inspiration for our work on AgentCourt. For those interested in exploring more about Deli Legal's advancements, their detailed research paper can be found at [Deli Legal Research Paper](https://arxiv.org/abs/2408.00357).
+
+![Deli Legal System](deli.png)
+
+The above image provides a glimpse into the Deli Legal system, showcasing its capabilities in enhancing legal processes through advanced AI technologies.
+
+---
+
+We are grateful for the support and insights provided by all contributors and partners, which have been instrumental in the development and success of the AgentCourt project.
 
 ## Contact
 
