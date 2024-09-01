@@ -127,7 +127,7 @@ class CourtSimulation:
             self.judge.name,
             "现在开庭。",
         )
-    # 法庭前确认各种事项的例子，可以根据自己需要，采用大模型结合合适的prompt来模拟。
+    # 法庭前确认各种事项的例子，可以根据自己需要，采用大模型结合合适的prompt来模拟，此处仅为简化示例
     def confirm_rights_and_obligations(self):
         """
         确认诉讼权利义务
