@@ -102,11 +102,16 @@ To perform testing:
 
 We invited a team of legal experts from China to evaluate the test cases.
 
+![image](https://github.com/user-attachments/assets/6d1dbd22-f004-4c7e-b8b3-4919cfe8869a)
+
+
 ### 2. Automatic Evaluation
 
 You can refer to the following link for multiple tasks to evaluate the model:
 
 [https://github.com/open-compass/LawBench/](https://github.com/open-compass/LawBench/)
+
+
 
 The evaluation scripts are detailed in the provided link. Combine the evolved lawyers with appropriate prompts to maximize the utilization of the three databases and achieve good performance on the automatic evaluation tasks.
 
