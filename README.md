@@ -111,6 +111,7 @@ You can refer to the following link for multiple tasks to evaluate the model:
 
 [https://github.com/open-compass/LawBench/](https://github.com/open-compass/LawBench/)
 
+![image](https://github.com/user-attachments/assets/deb2c147-8e1f-4662-be2e-4f6a92030e23)
 
 
 The evaluation scripts are detailed in the provided link. Combine the evolved lawyers with appropriate prompts to maximize the utilization of the three databases and achieve good performance on the automatic evaluation tasks.
