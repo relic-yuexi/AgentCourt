@@ -6,7 +6,7 @@ def search_law(query):
     LAW_VECTOR_API_URL = "" # Place your API URL here
     URL = "" # Place your API URL here
     params = {"question": query}
-    res = requests.get(URL, params=params)
+    res = requests.get(URL, params=params, timeout=30)
     res = json.loads(res.text)
 
     return res
